@@ -36,6 +36,7 @@ temp/
 # Local data
 uploads/
 data/*.json
+state.json
 
 # IDE files
 .vscode/
