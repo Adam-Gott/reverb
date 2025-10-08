@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build output
+dist/
+build/
+.cache/
+.next/
+out/
+tmp/
+temp/
+.DS_Store
+
+# Local data
+uploads/
+data/*.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Render or other deployment cache
+.render-build-cache/
+
+# Optional: prevent accidental zip files from being tracked
+*.zip
